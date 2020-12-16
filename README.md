@@ -1,12 +1,12 @@
 # Fantasy-Premier-League
- # Fantasy Premier League is a database project using Oracle database and Javafx framework.
+  Fantasy Premier League is a database project using Oracle database and Javafx framework.
 # Database: Oracle
 # Framework: Javafx
 
 # Model of Database Schema:
 ![](Model.png)
 
-#User Interface Screenshots:
+# User Interface Screenshots:
 ![](Uiimages/ui0.png)
 ![](Uiimages/ui1.png)
 ![](Uiimages/ui2.png)
